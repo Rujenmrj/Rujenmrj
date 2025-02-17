@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rujenmrj&label=Profile%20views&color=0e75b6&style=flat" alt="rujenmrj" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rujenmrj" alt="rujenmrj" /></a> </p>
 
 - 🔭 I’m currently working on [Wallet](https://github.com/Rujenmrj/Wallet)
 
