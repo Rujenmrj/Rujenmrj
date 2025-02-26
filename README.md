@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Wallet](https://github.com/Rujenmrj/Wallet)
 
-- 👨‍💻 All of my projects are available at [rujenm.com.np](rujenm.com.np)
+- 👨‍💻 All of my projects are available at [rujenm.com.np](https://rujenm.com.np)
 
 - 📫 How to reach me **rujenmrj15@gmail.com**
 
