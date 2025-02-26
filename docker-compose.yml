@@ -1,0 +1,15 @@
+version: '3.8'
+services: 
+  frontend:
+    container_name: frontend
+    image: nginx:latest
+    ports:
+      - "80:80"
+    volumes:
+      - ./frontend/:/var/www/html
+    restart: always
+    networks:
+      - mynet
+networks:
+  mynet:
+    external: true
